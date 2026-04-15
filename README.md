@@ -1,6 +1,6 @@
 # OptiGuard-Chain v1.0 🛡️
 **Developer:** Nitesh Dungdung  
-**Roll Number:** 24030480068 (BIT Sindri)
+**Registration Number:** 24030480068 (BIT Sindri)
 
 ## Overview
 OptiGuard-Chain is a blockchain-based security project written in C++. It implements a decentralized ledger to track and audit logs with built-in threat detection scoring.
